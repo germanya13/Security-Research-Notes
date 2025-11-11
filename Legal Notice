@@ -1,0 +1,37 @@
+---
+
+## 📚 5️⃣ `security-research-notes/README.md`
+
+```markdown
+# 🧠 Security Research Notes
+
+A curated collection of technical articles, research notes, and tutorials related to cybersecurity.
+
+---
+
+## 📖 Topics
+- Web Application Security  
+- Threat Intelligence & Hunting  
+- Cloud Security Basics  
+- SIEM Use Case Development  
+- Blue Team vs Red Team methodologies  
+
+---
+
+## 🧩 Purpose
+To share knowledge, methodologies, and best practices that strengthen proactive defense and situational awareness.
+
+---
+
+## ✍️ Example Entries
+- "Detecting Lateral Movement with Sysmon and ELK"
+- "Building a Vulnerability Management Workflow"
+- "Python for Log Correlation"
+
+---
+
+## 📬 Contributions
+Future versions will include:
+- Custom Sigma and YARA rules  
+- Incident playbooks  
+- MITRE ATT&CK correlations  
